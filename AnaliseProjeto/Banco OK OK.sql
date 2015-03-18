@@ -1,1 +1,0 @@
-select * negociacao_veic
