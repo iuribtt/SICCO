@@ -1263,7 +1263,11 @@
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
+<<<<<<< HEAD
 <XPD:ATTR name="#OwnedElements" type="integer">32</XPD:ATTR>
+=======
+<XPD:ATTR name="#OwnedElements" type="integer">31</XPD:ATTR>
+>>>>>>> 7614aef6926e184e97ceee50012767fe479176bf
 <XPD:OBJ name="OwnedElements[0]" type="UMLActor" guid="PEKPPKaq9ky2p/BXxpdDyAAA">
 <XPD:ATTR name="Name" type="string">Vendedor</XPD:ATTR>
 <XPD:REF name="Namespace">Jlvcnjw/4keQk6eepcuM6QAA</XPD:REF>
@@ -1273,11 +1277,14 @@
 <XPD:REF name="Views[2]">RHsGUTOukEq9s6ILJfv+6QAA</XPD:REF>
 <XPD:ATTR name="#Specializations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Specializations[0]">i+ikXwSUm0mgQZtYwcdU5wAA</XPD:REF>
-<XPD:ATTR name="#Associations" type="integer">4</XPD:ATTR>
+<XPD:ATTR name="#Associations" type="integer">3</XPD:ATTR>
 <XPD:REF name="Associations[0]">bvcRQbmwcEGTrGQvYzcnIgAA</XPD:REF>
 <XPD:REF name="Associations[1]">wga28tfo2ki9uvQWNJpe+AAA</XPD:REF>
 <XPD:REF name="Associations[2]">gEaCDyB9HkOxetYDj48nvgAA</XPD:REF>
+<<<<<<< HEAD
 <XPD:REF name="Associations[3]">5l7obmJwJ0yXUR1BBCqzBgAA</XPD:REF>
+=======
+>>>>>>> 7614aef6926e184e97ceee50012767fe479176bf
 <XPD:ATTR name="#ClassifierRoles" type="integer">13</XPD:ATTR>
 <XPD:REF name="ClassifierRoles[0]">txiVyUjXmEaciy4lzex1dAAA</XPD:REF>
 <XPD:REF name="ClassifierRoles[1]">CiH3NXN4zEqvDf7LC73M8QAA</XPD:REF>
